@@ -1,0 +1,52 @@
+.row {
+    text-align: center;
+    align-items: center;
+    height: 720px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+#buttonGood{
+
+background-color: green;
+border-radius: 12px;
+padding: 20px;
+font-size: 20px;
+margin-top: 25px;
+color: white;
+border-style: none;
+font-weight: bold;
+}
+
+#buttonBad{
+
+    background-color: red;
+    border-radius: 12px;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 25px;
+    color: white;
+    border-style: none;
+    font-weight: bold;
+    }
+
+
+#feedback{
+    text-align: center;
+    font-size: 26px;
+    padding: 20px;
+
+}
+
+
+
+
+footer{
+    text-align: center;
+}
+
+
+/* #emojiSmile{
+
+} */
